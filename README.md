@@ -10,7 +10,7 @@ La estructura inicial fue creada con el comando `npx create-react-app`.
 
 
 ## Características
-En la aplicación añadí mejoras tomando algunos de los consejos propuestos en el curso. Las siguientes características son las cuales añadí de manera personal para mejorar la aplicación.
+En la aplicación añadí mejoras tomando algunos de los consejos propuestos en el curso. Las siguientes características las cuales añadí de manera personal para mejorar la aplicación son:
 
 - Responsive: La aplicación se adapta a diferentes tamaños de pantalla, desde móviles hasta escritorios.
 
@@ -28,9 +28,14 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 La aplicación se abrirá automáticamente en el navegador configurado por defecto y se ejecutará en `localhost:3000`.
 
 ## Preview
+Esto es una captura de pantalla de cómo se ve la apliación creada.
+
+
 ![Screenshot de la aplicación](src/img/screenshot-1.png)
 
 ## Tecnologías
 [React](https://react.dev/)
+
 [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+
 [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
