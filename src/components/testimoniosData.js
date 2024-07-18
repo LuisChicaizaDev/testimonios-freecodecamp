@@ -37,6 +37,6 @@ const testimoniosData = [
 ];
 
 /**
- * exportamos el objeto de arrays para importarlo en la app
+ * exportamos el array de objetos para importarlo en la app
  */
 export default testimoniosData;
