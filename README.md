@@ -19,7 +19,7 @@ En la aplicación añadí mejoras tomando algunos de los consejos propuestos en 
 ## Instalación
 Para ejecutar este proyecto localmente, sigue estos pasos:
 
-1.  Clona el repositorio.  `git clone`
+1.  Clona el repositorio.  `git clone <URL_DEL_REPOSITORIO>`
 
 2. Instala las dependencias:  `npm install`
 
@@ -34,8 +34,10 @@ Esto es una captura de pantalla de cómo se ve la apliación creada.
 ![Screenshot de la aplicación](src/img/screenshot-1.png)
 
 ## Tecnologías
-[React](https://react.dev/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
-[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
